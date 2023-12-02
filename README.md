@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Привет, друг ) 
+Привет
 
 Меня зовут Антон. Я Frontend-разработчик. Мой основной стек сейчас:
 - React.js/Redux
