@@ -14,13 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Привет
-
-Меня зовут Антон. Я Frontend-разработчик. Мой основной стек сейчас:
-- React.js/Redux
-- NodeJS/Expres
- 
- Люблю  полноценные веб приложения на React с соблюдением стандартов, разрабатывать beckend для приложений и сайтов на Express, реализовать REST API для проекта.
- 
- 
  
